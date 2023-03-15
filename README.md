@@ -3,7 +3,7 @@
 
 It is a clone of The Giftcart.com, It is an online gift-card retailer based in Pittsburgh, Pennsylvania. ... The company also offers prepaid Visa and MasterCard gift cards. It is considered the largest online gift card retailer and has appeared on the Inc.
 
-###Frontend deployment link 
+### Frontend deployment link 
 
 https://gift-card-eta.vercel.app/
 
